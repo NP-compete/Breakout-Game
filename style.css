@@ -1,0 +1,28 @@
+body {
+  background-color: #78ce58;
+}
+
+#myCanvas {
+  background-color: #e2c081;
+  display: "block";
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin:auto;
+   border: 1px solid black;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+  font-family: monospace;
+}
+
+.myFooter{
+  position: fixed;
+  bottom : 10;
+  left: 0;
+  right: 0;
+  margin:auto;
+  text-align: center;
+}
